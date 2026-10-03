@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T03:53:11Z",
+  "updated": "2026-10-03T04:02:06Z",
   "base": {
     "project": "flagwatch_base_devkit",
-    "version": "0.4.5",
-    "elf_id": "0cdb43263ce105e0",
+    "version": "0.4.6",
+    "elf_id": "303d8d2ce56fb9a5",
     "file": "flagwatch_base_devkit.bin",
     "size": 921600,
-    "sha256": "5faa1ea1ad090a9d8a0749bff23707de425d885e006d8ee57d7485a8520ca4f4"
+    "sha256": "53482058140c516fb0698fb0308084b52248abaa302f11286b728d5ec37b6f09"
   },
   "sensor": {
     "project": "flagwatch_rev1",
-    "version": "0.4.5",
-    "elf_id": "45159e3c81dddcd4",
+    "version": "0.4.6",
+    "elf_id": "16a3098e49afdd3e",
     "file": "flagwatch_rev1.bin",
     "size": 1118208,
-    "sha256": "b04ae06225faab091fd999e0e454796b0321dffae30c6fcf59c5e7dfdbf41d46"
+    "sha256": "510af854a03aa5745a0a19e457ba42025a93837bb907b10138d321d192e8f07e"
   }
 }
