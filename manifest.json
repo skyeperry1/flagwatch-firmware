@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "updated": "2026-10-04T04:56:17Z",
+  "updated": "2026-10-04T19:41:47Z",
   "base": {
     "project": "flagwatch_base_devkit",
-    "version": "0.4.8",
-    "elf_id": "42609c46eb794672",
+    "version": "0.4.9",
+    "elf_id": "1722fe417fda2f2a",
     "file": "flagwatch_base_devkit.bin",
     "size": 921600,
-    "sha256": "1fe23b7cd6f5531adf13490e433e3fd1a4a7aabbe32a0692327f1cafd5cb2ae4"
+    "sha256": "41e24f564e8e5a5f7dd869b786b7450279f67efabf8776e99f0706035f5b7be1"
   },
   "sensor": {
     "project": "flagwatch_rev1",
